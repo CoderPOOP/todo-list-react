@@ -1,3 +1,6 @@
+# Todo List App with ReactJs and Bootstrap
+This Todo list App is made with ReactJs and Bootstrap under the guidance of [Code With Harry Sir's ReactJs Crash Course](https://www.youtube.com/watch?v=RGKi6LSPDLU)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
